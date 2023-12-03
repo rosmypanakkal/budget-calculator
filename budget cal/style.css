@@ -1,0 +1,29 @@
+#indexbody{
+    background-image:url('https://images.squarespace-cdn.com/content/v1/55f84460e4b01f2f7879d6db/1473367452186-O1B9QT7LE8R793MA1ROZ/Accounting.jpg?format=1500w') 
+}
+#col_index{
+border: 3px solid wheat;
+margin: 10px;
+}
+#col1_index{
+    border: 3px solid wheat;
+    margin: 10px;
+    }
+
+    .form-control{
+        width: 300px;
+    }
+    #logincol{
+        border: 3px solid rgb(228, 191, 233);
+         border-radius: 4%;
+    }
+    #regcol{
+        border: 3px solid rgb(228, 191, 233);
+        border-radius: 4%; 
+    }
+    h2{
+        color: rgb(223, 10, 10);
+    }
+    p{
+        color:orangered;
+    }
